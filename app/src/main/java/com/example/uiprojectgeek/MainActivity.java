@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = findViewById(R.id.textView6);
         textView.setText(message);
 
+
         //This is my button for User
         button = (Button) findViewById(R.id.button);
         button.setOnClickListener(new View.OnClickListener() {
