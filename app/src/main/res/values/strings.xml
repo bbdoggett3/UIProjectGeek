@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UIProjectGeek</string>
+    <string name="edit_name">First Name</string>
+    <string name="button_send">Send</string>
+    <string name="edit_lastName">Last Name</string>
+    <string name="button_send_name">Update</string>
+</resources>
